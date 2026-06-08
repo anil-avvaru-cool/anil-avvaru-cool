@@ -16,11 +16,11 @@ The platform is built on a shared data spine: the underwriting risk score is sto
 
 | Repo | Focus | Status |
 |---|---|---|
-| [insurance-data-platform](https://github.com/anil-avvaru-cool/insurance-data-platform) | Entity resolution, feature store, synthetic data generation | 🔨 In progress |
-| [ai-fraud-detection-platform](https://github.com/anil-avvaru-cool/ai-fraud-detection-platform) | Ensemble fraud scoring, graph intelligence, sync/async inference | 🔨 In progress |
-| [intelligent-underwriting-platform](https://github.com/anil-avvaru-cool/intelligent-underwriting-platform) | Two-stage hurdle model, quote generation agent | 🔨 In progress |
+| [insurance-data-platform](https://github.com/anil-avvaru-cool/insurance-data-platform) | Entity resolution, feature store, synthetic data generation | ✅ Complete |
+| [ai-fraud-detection-platform](https://github.com/anil-avvaru-cool/ai-fraud-detection-platform) | Ensemble fraud scoring, graph intelligence, sync/async inference | ✅ Complete |
+| [intelligent-underwriting-platform](https://github.com/anil-avvaru-cool/intelligent-underwriting-platform) | Two-stage hurdle model, quote generation agent | ✅ Complete |
 | [fnol-claims-multi-agent-system](https://github.com/anil-avvaru-cool/fnol-claims-multi-agent-system) | FNOL Agent, document verification, investigator copilot | 📋 Planned — Week 5 |
-| [enterprise-rag-platform](https://github.com/anil-avvaru-cool/enterprise-rag-platform) | Reusable RAG library consumed by underwriting and claims agents | 📋 Planned — Week 5 |
+| [enterprise-rag-platform](https://github.com/anil-avvaru-cool/enterprise-rag-platform) | Reusable RAG library consumed by underwriting and claims agents | ✅ Complete |
 
 ### Key architectural decisions
 
